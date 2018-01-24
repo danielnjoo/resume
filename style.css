@@ -98,7 +98,7 @@ li{
 /*** categorial blocks ***/
 
 .main-block{
-  margin-top: 0.1in;
+  margin-top: 0.25in;
 }
 
 #main h2{
@@ -225,7 +225,7 @@ li{
 }
 
 .blocks:last-child .decorator{ /* slightly shortens it */
-  margin-bottom: 0.25in;
+  /* margin-bottom: 0.25in; */
 }
 
 /***** fine-tunes on the details block where the real juice is *****/
